@@ -21,6 +21,7 @@ public class UpdateOperationEx1 {
 
 		System.out.println("Give Update array an element :");
 		arr[pos - 1] = item;
+		arr[pos] = item;
 		for (int i = 0; i < size; i++) {
 			System.out.println(arr[i]);
 		}
