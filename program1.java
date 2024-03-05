@@ -11,6 +11,8 @@ public class program1 {
 			System.out.println();
 		}
 	}
+	
+	
 
 	public static void main(String[] args) {
 //		int arr[][] = new int[2][6];
